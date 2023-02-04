@@ -1,3 +1,3 @@
 ## Bora Codar!
 
-- [ ] boraCodar um chat | Desafio #04
+- [x] boraCodar um chat | Desafio #04
